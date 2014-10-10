@@ -1,0 +1,10 @@
+E:\DOCS\dotNET\H_5\T_3\bin\Debug\T_3.exe.config
+E:\DOCS\dotNET\H_5\T_3\bin\Debug\T_3.exe
+E:\DOCS\dotNET\H_5\T_3\bin\Debug\T_3.pdb
+E:\DOCS\dotNET\H_5\T_3\obj\Debug\T_3.csprojResolveAssemblyReference.cache
+E:\DOCS\dotNET\H_5\T_3\obj\Debug\T_3.Links.resources
+E:\DOCS\dotNET\H_5\T_3\obj\Debug\T_3.WebBrowserForm.resources
+E:\DOCS\dotNET\H_5\T_3\obj\Debug\T_3.Properties.Resources.resources
+E:\DOCS\dotNET\H_5\T_3\obj\Debug\T_3.csproj.GenerateResource.Cache
+E:\DOCS\dotNET\H_5\T_3\obj\Debug\T_3.exe
+E:\DOCS\dotNET\H_5\T_3\obj\Debug\T_3.pdb

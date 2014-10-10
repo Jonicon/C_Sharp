@@ -1,0 +1,9 @@
+E:\DOCS\dotNET\H_5\Esim_7_2\bin\Debug\Esim_7_2.exe.config
+E:\DOCS\dotNET\H_5\Esim_7_2\bin\Debug\Esim_7_2.exe
+E:\DOCS\dotNET\H_5\Esim_7_2\bin\Debug\Esim_7_2.pdb
+E:\DOCS\dotNET\H_5\Esim_7_2\obj\Debug\Esim_7_2.csprojResolveAssemblyReference.cache
+E:\DOCS\dotNET\H_5\Esim_7_2\obj\Debug\Esim_7_2.MainWindow.resources
+E:\DOCS\dotNET\H_5\Esim_7_2\obj\Debug\Esim_7_2.Properties.Resources.resources
+E:\DOCS\dotNET\H_5\Esim_7_2\obj\Debug\Esim_7_2.csproj.GenerateResource.Cache
+E:\DOCS\dotNET\H_5\Esim_7_2\obj\Debug\Esim_7_2.exe
+E:\DOCS\dotNET\H_5\Esim_7_2\obj\Debug\Esim_7_2.pdb

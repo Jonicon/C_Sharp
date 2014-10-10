@@ -1,0 +1,9 @@
+E:\DOCS\dotNET\H_3\T_5\bin\Debug\T_5.exe.config
+E:\DOCS\dotNET\H_3\T_5\bin\Debug\T_5.exe
+E:\DOCS\dotNET\H_3\T_5\bin\Debug\T_5.pdb
+E:\DOCS\dotNET\H_3\T_5\obj\Debug\T_5.csprojResolveAssemblyReference.cache
+E:\DOCS\dotNET\H_3\T_5\obj\Debug\T_5.Form1.resources
+E:\DOCS\dotNET\H_3\T_5\obj\Debug\T_5.Properties.Resources.resources
+E:\DOCS\dotNET\H_3\T_5\obj\Debug\T_5.csproj.GenerateResource.Cache
+E:\DOCS\dotNET\H_3\T_5\obj\Debug\T_5.exe
+E:\DOCS\dotNET\H_3\T_5\obj\Debug\T_5.pdb
